@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/button5"
         android:layout_marginTop="20dp"
-        android:text="Phonebookn Application "
+        android:text="@string/Hello"
         android:textStyle="bold" />
 
 
