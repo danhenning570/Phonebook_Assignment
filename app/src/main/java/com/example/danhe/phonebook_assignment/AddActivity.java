@@ -34,9 +34,6 @@ public class AddActivity extends AppCompatActivity {
 
 
 
-
-
-
     }
 
     public void saveData(View v){

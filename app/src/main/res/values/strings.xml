@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Phonebook_Assignment</string>
     <string name="Hello">Phonebook Assignment</string>
+    <string name="app_label">Search</string>
 </resources>
